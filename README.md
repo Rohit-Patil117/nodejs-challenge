@@ -1,4 +1,4 @@
-### This is a Node.js Backend Developer Challenge
+# This is a Node.js Backend Developer Challenge
 
 Developed a RESTful APIs using Node.js (Nest.js framework) for managing books.
 
@@ -24,7 +24,7 @@ $ npm run start:dev
 
 I have added the swagger documentation for this project.
 
-# Swagger documentation URL
+## Swagger documentation URL
 
 http://localhost:3000/docs
 
@@ -32,6 +32,6 @@ http://localhost:3000/docs
 
 Yes, I used the API_KEY for authentication and authorization for each API. We would need to pass this API_KEY with the header of API.
 
-# API_KEY
+## API_KEY
 
 1ab2c3d4e5f61ab2c3d4e5f6
