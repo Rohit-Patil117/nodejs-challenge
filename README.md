@@ -30,7 +30,7 @@ http://localhost:3000/docs
 
 ## Any decisions or assumptions
 
-Yes, I used the API_KEY for authentication and authorization for each API. We would need to pass this API_KEY with the header of API.
+Yes, I have used the API_KEY for authentication and authorization for each API. We would need to pass this API_KEY with the header of the API.
 
 ## API_KEY
 
